@@ -1,6 +1,2 @@
 First name: John
-<<<<<<< HEAD
 Last name: New
-=======
-Last name: Here
->>>>>>> 1d76a232ef00e990b48619008fac322e4694edea
